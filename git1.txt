@@ -1,4 +1,5 @@
 
 git platzi
 curso de git
-freddy vega
+Sebastian Tovar
+Este año es el año de IT

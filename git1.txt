@@ -1,6 +1,4 @@
 
 git platzi
 curso de git
-Sebastian Tovar
-Este año es el año de IT
-Y de mas aprendizaje
+Sebastian Tovar mañana nos enfocamos en git nuevamente
